@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/TomPrutz/Toms%20playground/_apis/build/status/tgpinq.pipelines-java?branchName=master)](https://dev.azure.com/TomPrutz/Toms%20playground/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
